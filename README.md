@@ -376,76 +376,261 @@ Antes de concluir a compra, João opta por ouvir as políticas de garantia e sup
 A jornada termina com João satisfeito por ter conseguido navegar, compreender e adquirir o produto de forma totalmente independente, sem precisar de ajudas externas e sentindo-se incluído digitalmente.
 
 ## Qualidade de Uso em IHC
-* A usabilidade é um dos pilares fundamentais do projeto e deve ser muito bem projetada, uma vez que qualquer um que possuir a licença poderá utilizar a plataforma.
-Desta maneira, ela será intuitiva, com ícones, imagens e explicações das funcionalidades, deve ser, também, fácil de ser utilizada e deve ter um grau de aprendizagem rápido e permanente no usuário, para que não precise se utilizar de tutoriais a cada uso.
-Juntamente a isso, será feito um fluxo lógico de navegação, direcionando o usuário para a próxima etapa do processo de forma fluida e focada.
-Por ser um aplicativo local, a segurança será o menor dos problemas, uma vez que as imagens tiradas e os dados gerados estarão presentes no computador do usuário. <br>
-* A experiência do usuário será baseada em suas emoções e expressões faciais, desta maneira, para atribuir sensações de prazer, diversão e profissionalismo, o aplicativo deverá possuir animações fluidas. interfaces modernas, feedback ao usuário e design inteligente.
-Tais fatores contribuirão para a satisfação e credibilidade do usuário com o projeto. <br>
-* Para acessibilidade, teremos menus simples e explicações compreensíveis para o entendimento de todo público alvo, algo a ser implementado seria uma resposta auditiva ao clicar botões, para uma maior abrangência de público.
-O design inteligente e o fluxo lógico para o desenvolvimento da atividade torna o aplicativo fácil de ser utilizado e intuitivo na hora do uso. <br>
-* O sistema terá boa comunicabilidade, uma vez que cada passo apresentará explicações de como usar e o que está sendo feito, com as imagens, com o usuário, com o sistgema. Serão utilizados icones, imagens, para facilitar a comunicação e interação com o usuário, a partir da aplicação.
+* A usabilidade será um dos pilares centrais do desenvolvimento do site, uma vez que ele precisa ser acessível tanto para pessoas com deficiência visual quanto para o público em geral. A plataforma será projetada de forma intuitiva e simples, com navegação lógica e clara, permitindo que qualquer usuário compreenda o conteúdo sem a necessidade de tutoriais ou instruções adicionais. A estrutura do site guiará o visitante de maneira natural pelas seções, da apresentação do produto até a finalização da compram garantindo fluidez e consistência na interação. Além disso, serão adotadas boas práticas de arquitetura da informação, como menus bem definidos, hierarquia de títulos e descrições de fácil leitura pelos leitores de tela.
+
+* A experiência do usuário (UX) será pensada para despertar sensações de confiança, inclusão e praticidade. O site contará com animações suaves, elementos multimídia narrados e feedbacks auditivos e visuais que orientam o usuário em cada etapa. O design buscará transmitir credibilidade e modernidade, refletindo o caráter inovador do produto apresentado. O objetivo é proporcionar uma experiência acolhedora e positiva, valorizando a autonomia do usuário e o propósito social do projeto.
+
+* A acessibilidade digital será prioridade no desenvolvimento, atendendo às Diretrizes de Acessibilidade para Conteúdo Web (WCAG). O site contará com suporte completo a leitores de tela, atalhos de teclado, contrastes adequados, fontes ajustáveis e descrições alternativas (alt text) em todas as imagens e vídeos. Também serão incluídos áudios explicativos e descrições narradas sobre o funcionamento do acessório, garantindo que pessoas com deficiência visual total ou parcial consigam compreender todo o conteúdo de forma independente. Essa abordagem amplia o alcance do projeto e reforça seu compromisso com a inclusão.
+
+* A comunicabilidade será trabalhada com linguagem clara, objetiva e empática. Cada seção do site apresentará explicações curtas e diretas, evitando termos técnicos excessivos. Ícones, imagens descritivas e recursos auditivos auxiliarão na interpretação das informações, facilitando o diálogo entre o sistema e o usuário. Além disso, o site fornecerá mensagens de feedback em tempo real (como confirmações de ações e alertas de navegação), garantindo que o usuário compreenda o que está acontecendo durante todo o processo.
 
 ## Ambiente e contexto
 
-### Thiago Alberto Mendes:
-#### Perguntas:
+### Perguntas:
+1) Quem pode/deve cadastrar as informações do acessório e seus recursos no site?
+2) Quando são atualizadas as informações sobre o produto (descrições, vídeos, preços, avaliações)?
+3) Quem fornece os dados e materiais multimídia que serão exibidos no site (equipe de desenvolvimento, marketing, usuários)?
+4) Quais informações sobre o acessório devem ser apresentadas (funcionalidades, formas de uso, público-alvo, suporte)?
+5) Quantas atualizações de conteúdo ou produtos são esperadas em cada período (mensalmente, a cada nova versão do protótipo, etc.)?
+6) Quem pode contribuir com depoimentos, avaliações ou demonstrações do acessório no site?
+7) Que dados são necessários para cadastrar um novo comprador ou interessado no sistema?
+8) Como são obtidas as informações de contato ou cadastro dos usuários (formulários, e-mail, autenticação externa)?
+9) De quem depende a conclusão de uma compra ou solicitação de contato no site (usuário, equipe técnica, sistema de pagamento)?
+10) De que informações os usuários precisam para confirmar o pedido ou entender o funcionamento do produto?
+11) Como o usuário confirma que sua compra ou solicitação foi concluída com sucesso?
+12) Em que pontos a interação do usuário com o site pode ser mais eficiente (ex: menos cliques, mais acessibilidade, melhor navegação por leitor de tela)?
+13) Como o usuário entra em contato com a equipe responsável (chat, formulário, e-mail, telefone)?
+14) Quem precisa ser notificado quando uma compra ou formulário de interesse é concluído (usuário, equipe de vendas, suporte técnico)?
 
-### Valter Alter  
-#### Perguntas de refinamento: <br>
-1 - Quem pode/deve cadastrar os dados de gameplay e expressões faciais no sistema? <br>
-2 - Quando são cadastradas as sessões de jogo para geração de datasets? <br>
-3 - Quem fornece os dados de gameplay e das expressões? <br>
-4 - Quais dados de gameplay e faciais devem ser cadastrados? <br>
-5 - Quantas sessões de captura são realizadas em cada período? <br>
-6 - Quem pode contribuir com gravações de gameplay e expressões? <br>
-7 - Que dados são necessários para cadastrar um seguidor como participante externo? <br>
-8 - Como são obtidos os vídeos enviados por seguidores? <br>
-9 - De quem depende a conclusão do cadastro de um dataset? <br>
-10 - De que informações Valter e seus seguidores precisam para confirmar que o dataset foi gerado corretamente? <br>
-11 - Como um participante confirma que seu material foi aceito? <br>
-12 - Em que pontos a interação de Valter com a aplicação pode ser mais eficiente? <br>
-13 - Como Valter entra em contato com seus seguidores para organizar o envio dos dados? <br>
-14 - Quem precisa ser notificado quando um dataset é concluído? <br>
+### João Alves:  
 
 #### Atores:
-Valter Alter, 58 anos, criador de conteúdo para jogos digitais no canal ClickGamesBR (1,3 milhão de inscritos no YouTube). Seus seguidores frequentemente pedem novidades, incluindo jogos que respondam às emoções dos jogadores.
+João Alves, 32 anos, é massoterapeuta e deficiente visual total desde o nascimento
 
 #### Narrativa:
-Valter Alter, 58 anos, é criador do canal **ClickGamesBR**. Ele utiliza seu **PC gamer e webcam HD em seu estúdio** [Q1]. **Os atores principais são Valter e seus seguidores**, que podem enviar gravações de gameplay [Q2]. **Seu objetivo é gerar datasets de emoções para criar jogos interativos** e, como meta secundária, inovar no canal [Q3].
+Ele acessa o site do acessório assistivo utilizando o leitor de tela NVDA em seu computador [Q1]. O ator principal é João, enquanto a equipe de desenvolvimento e suporte do site atua como atores secundários, responsáveis por manter as informações do produto atualizadas [Q2].
 
-Primeiro, **testa a ferramenta em suas próprias lives** e depois planeja campanhas para receber vídeos dos seguidores [Q4]. Durante o uso, conecta a webcam e deixa a aplicação registrar automaticamente suas expressões [Q5]. A iluminação e qualidade da câmera podem interferir nos resultados [Q6]. Valter avalia os datasets verificando se as expressões correspondem às situações de jogo [Q7].
+Seu objetivo é compreender o funcionamento do acessório e avaliar se ele pode ajudá-lo em sua locomoção diária [Q3]. O site apresenta descrições detalhadas, narrações em áudio e exemplos de uso em formato acessível, explicando como o acessório se acopla a qualquer óculos e como realiza a leitura do ambiente por meio de visão computacional [Q4].
 
-Ele escolhe a ferramenta por economizar tempo em relação à rotulagem manual [Q8]. Já tem experiência com gravações, mas não com análise automática de emoções [Q9]. **Pretende usar a aplicação regularmente em transmissões e gravações** [Q10]. Entre as barreiras estão iluminação inadequada e custos de equipamento [Q11]. Ele conta com softwares de edição e plataformas de streaming como apoio [Q12]. O retorno é a criação rápida de datasets rotulados [Q13]. A longo prazo, espera consolidar sua imagem como criador inovador [Q14].
+O conteúdo do site é atualizado periodicamente conforme novas versões do protótipo são lançadas [Q5]. Além da equipe técnica, usuários como João podem contribuir com depoimentos sobre suas experiências de uso [Q6]. Para cadastrar seu interesse no produto, João precisa informar dados básicos como nome, e-mail e telefone, preenchendo um formulário simplificado com suporte auditivo [Q7].
 
-### Gabriel Cavalcante:
-#### Perguntas de refinamento:
-1. Quem pode/deve cadastrar os dados de sessões de jogo e emoções no sistema?<br>
-2. Quando são cadastradas as sessões de teste para geração dos datasets?<br>
-3. Quem fornece os dados necessários (jogadores, equipe de coleta, clientes)?<br>
-4. Quais informações de gameplay e expressões devem ser cadastradas?<br>
-5. Quantas sessões de coleta geralmente são realizadas por projeto?<br>
-6. Quem pode participar como jogador/usuário nas sessões de captura?<br>
-7. Que dados são necessários para cadastrar um jogador externo no sistema?<br>
-8. Como são obtidos os dados dos jogadores (capturas automáticas, formulários, vídeos)?<br>
-9. De quem depende a conclusão da criação de um dataset (Gabriel, equipe, ferramenta)?<br>
-10. De que informações Gabriel e a equipe precisam para validar os datasets criados?<br>
-11. Como um cliente confirma que o dataset atende suas necessidades?<br>
-12. Em que pontos a interação de Gabriel com a ferramenta pode ser mais eficiente?<br>
-13. Como Gabriel entra em contato com jogadores ou clientes envolvidos no processo?<br>
-14. Quem precisa ser notificado quando um dataset é concluído (Gabriel, equipe, empresa cliente)?<br>
+Essas informações são coletadas diretamente por meio do site e armazenadas de forma segura, respeitando a LGPD [Q8]. A conclusão da solicitação de interesse depende do preenchimento correto dos dados e da confirmação automática enviada pelo sistema [Q9]. Durante a navegação, João precisa de informações claras sobre preços, funcionalidades e garantias para tomar sua decisão [Q10].
+
+Ao finalizar o processo, o site emite um alerta sonoro e envia uma mensagem confirmando a conclusão do cadastro [Q11]. A interação é mais eficiente quando o site reduz o número de etapas e organiza os conteúdos de forma linear, garantindo leitura fluida pelo leitor de tela [Q12]. Caso precise de suporte adicional, João pode entrar em contato com a equipe por meio de um botão de “Fale Conosco”, também compatível com leitores de tela [Q13]. Ao término do processo, tanto João quanto a equipe de atendimento recebem notificações automáticas sobre a solicitação [Q14].
+
+
+### Ricardo Silva:
 
 #### Atores:
-Gabriel Cavalcante, 43 anos, trabalha na empresa MindPlus. Semanalmente precisa criar datasets para outras empresas, cujo foco é o desenvolvimento de jogos.
+Ricardo Silva, 45 anos, é gerente administrativo e pai de um adolescente com deficiência visual.
 
-### Narrativa:
-Gabriel Cavalcante, 43 anos, **trabalha na MindPlus**, em um **escritório com computadores potentes e webcams** [Q1]. **O ator principal é Gabriel**; **secundários são jogadores** que participam dos testes e os clientes que recebem os datasets [Q2]. **Seu objetivo é produzir datasets personalizados de emoções**, reduzindo tempo de coleta manual [Q3].
+#### Narrativa:
+Ele ouve falar do acessório por meio de um grupo de pais em uma instituição de apoio e decide acessar o site para conhecer o produto [Q1]. O ator principal é Ricardo, enquanto a equipe de marketing e desenvolvimento atua nos bastidores, atualizando as informações e disponibilizando vídeos e imagens do produto [Q2].
 
-Ele organiza sessões, ajusta ambiente e executa a ferramenta para capturar expressões durante o gameplay [Q4–Q5]. Fatores como ruído ou iluminação podem interferir [Q6]. Gabriel avalia os resultados comparando emoções detectadas com eventos do jogo [Q7].
+Seu objetivo é adquirir o acessório para o filho, buscando entender como ele funciona e de que forma pode oferecer mais independência e segurança [Q3]. O site apresenta seções explicativas com imagens ilustrativas, vídeos narrados e descrições interativas que tornam a compreensão simples e direta [Q4].
 
-O que o leva a usar a aplicação é a **necessidade de gerar datasets sob demanda de forma mais rápida** [Q8]. Ele tem experiência com dados, mas o reconhecimento facial automatizado é novidade [Q9]. O uso é frequente, semanal ou diário [Q10]. As barreiras envolvem limitações técnicas e prazos apertados [Q11]. Como apoio, usa bibliotecas de IA e softwares estatísticos [Q12]. O retorno é a entrega de datasets prontos e consistentes [Q13]. A longo prazo, espera fortalecer sua carreira e consolidar a MindPlus no mercado [Q14].
+As informações sobre o produto são revisadas e atualizadas periodicamente conforme novas versões do acessório são disponibilizadas [Q5]. Além disso, a plataforma permite que outros compradores enviem avaliações e relatos de uso, enriquecendo o conteúdo [Q6]. Para realizar a compra, Ricardo precisa preencher um formulário de cadastro com dados pessoais e informações de pagamento [Q7].
+
+Esses dados são obtidos diretamente no site, por meio de uma interface segura e intuitiva [Q8]. A confirmação da compra depende do processamento do pagamento e do retorno automático do sistema [Q9]. Ricardo precisa visualizar claramente informações sobre garantia, prazos de entrega e política de devolução antes de finalizar a compra [Q10].
+
+Assim que o pedido é confirmado, o sistema envia uma mensagem automática e um e-mail com o número do pedido [Q11]. A interação pode ser otimizada com atalhos visuais e botões destacados, que tornam a navegação rápida e agradável [Q12]. Caso tenha dúvidas, Ricardo pode contatar a equipe pelo chat de atendimento ou formulário de suporte [Q13]. Ao final, tanto ele quanto a equipe de vendas são notificados sobre a compra e o status do pedido [Q14].
+
+## Análise de tarefas
+
+### Site:
+* HTA:
+<img width="1368" height="799" alt="image" src="https://github.com/user-attachments/assets/b0c889f6-6af5-43a2-a19a-df0dbe816943" />
+
+<table border="1" cellspacing="0" cellpadding="6">
+ <tr>
+  <th>Objetivos / Operações</th>
+  <th>Problemas e Recomendações</th>
+ </tr>
+
+ <tr>
+  <td>0. Navegar no site para conhecer e adquirir o acessório assistivo</td>
+  <td>
+   Input: Acesso inicial ao site via navegador e uso opcional de leitor de tela. <br>
+   Feedback: O site deve emitir respostas auditivas e visuais para cada interação do usuário. <br>
+   Plano: O usuário realiza a navegação sequencial pelas seções principais até obter as informações e concluir a compra. <br>
+   Recomendação: O site deve ter estrutura simples, menus acessíveis e atalhos de teclado para navegação inclusiva.
+  </td>
+ </tr>
+
+ <tr>
+  <td>1. Acessar o site</td>
+  <td>
+   Input: Endereço do site digitado no navegador. <br>
+   Feedback: O sistema confirma o carregamento da página inicial por mensagem sonora e visual. <br>
+   Plano: Garantir que o carregamento seja rápido e compatível com leitores de tela. <br>
+   Recomendação: Utilizar servidores otimizados e textos alternativos (alt text) na página inicial para acessibilidade imediata.
+  </td>
+ </tr>
+
+ <tr>
+  <td>2. Explorar a página inicial</td>
+  <td>
+   Input: Seleção de menus e botões principais. <br>
+   Feedback: O site deve fornecer áudio ou destaque visual confirmando a seleção. <br>
+   Plano: Permitir que o usuário conheça rapidamente o produto, com destaque para botões “Como Funciona” e “Comprar Agora”. <br>
+   Recomendação: Garantir boa legibilidade de texto, contraste elevado e rotulação clara de botões para deficientes visuais.
+  </td>
+ </tr>
+
+ <tr>
+  <td>3. Conhecer o funcionamento do produto</td>
+  <td>
+   Input: Escolha da aba “Como Funciona”. <br>
+   Feedback: O site apresenta vídeo narrado e descrição em áudio das funcionalidades. <br>
+   Plano: Fornecer conteúdo multimídia acessível e narrado, sem exigir interação complexa. <br>
+   Recomendação: Incluir legendas, narração sincronizada e texto alternativo para cada mídia.
+  </td>
+ </tr>
+
+ <tr>
+  <td>4. Avaliar opiniões e benefícios</td>
+  <td>
+   Input: Acesso à seção “Depoimentos”. <br>
+   Feedback: O sistema reproduz áudios com relatos de usuários e apresenta lista de vantagens. <br>
+   Plano: Oferecer credibilidade e empatia por meio de experiências reais. <br>
+   Recomendação: Garantir que os depoimentos sejam acessíveis em áudio e texto, e que o conteúdo seja objetivo e conciso.
+  </td>
+ </tr>
+
+ <tr>
+  <td>5. Iniciar o processo de compra</td>
+  <td>
+   Input: Preenchimento de formulário com dados pessoais, endereço e forma de pagamento. <br>
+   Feedback: Mensagens auditivas e visuais confirmando cada etapa da compra. <br>
+   Plano: Conduzir o usuário por um fluxo simples, com etapas numeradas e botões bem identificados. <br>
+   Recomendação: Usar textos de apoio curtos, suporte a teclado e compatibilidade com leitores de tela para preencher os formulários.
+  </td>
+ </tr>
+
+ <tr>
+  <td>6. Contatar o suporte</td>
+  <td>
+   Input: Escolha do canal de contato (chat, e-mail, formulário). <br>
+   Feedback: Resposta automática de confirmação sonora e por texto <br>
+   Plano: O usuário envia dúvidas e recebe suas resposta. <br>
+   Recomendação: O chat deve ser acessível, com comandos de voz opcionais e resposta auditiva automática.
+  </td>
+ </tr>
+
+ <tr>
+  <td>7. Encerrar a sessão</td>
+  <td>
+   Input: Ação de fechar o navegador ou retornar à página inicial. <br>
+   Feedback: O sistema pode salvar cookies e preferências de acessibilidade (contraste, idioma, leitor de tela ativo, etc). <br>
+   Plano: Encerrar a navegação de forma segura, preservando as configurações personalizadas. <br>
+   Recomendação: Permitir que o usuário seja notificado sobre dados armazenados e ofereça opção de sair com segurança (LGPD).
+  </td>
+ </tr>
+
+</table>
+
+<br>
 <br>
 
+* GOMS:
+
+Goal 0: Navegar no site para conhecer e adquirir o acessório assistivo
+- Method 0.1: Acessar o site e explorar suas seções até concluir uma compra.
+(SEL.RULE: O usuário deseja conhecer o produto e adquiri-lo.)
+  - OP.0.1.1: Abrir o navegador.
+  - OP.0.1.2: Digitar o endereço do site ou acessá-lo por link.
+  - OP.0.1.3: Ativar o leitor de tela, se necessário.
+  - OP.0.1.4: Navegar pelos menus principais (Início, Como Funciona, Depoimentos, Comprar Agora).
+  - OP.0.1.5: Seguir o fluxo de informações até o processo de compra.
+
+Goal 1: Acessar o site
+- Method 1.A: Utilizar o navegador de internet.
+(SEL.RULE: O usuário possui um computador com acesso à internet.)
+  - OP.1.A.1: Abrir o navegador.
+  - OP.1.A.2: Digitar o endereço do site.
+  - OP.1.A.3: Pressionar Enter e aguardar o carregamento da página inicial.
+- Method 1.B: Acessar o site por meio de comando de voz.
+(SEL.RULE: O usuário é deficiente visual e utiliza assistente de voz.)
+  - OP.1.B.1: Dizer “Abrir site do acessório assistivo”.
+  - OP.1.B.2: O navegador abre a página automaticamente.
+
+Goal 2: Explorar a página inicial
+- Method 2.A: Utilizar a navegação por teclado.
+(SEL.RULE: O usuário está usando leitor de tela.)
+  - OP.2.A.1: Pressionar Tab para percorrer menus e botões.
+  - OP.2.A.2: Ouvir o leitor de tela anunciar os títulos das seções.
+  - OP.2.A.3: Pressionar Enter para acessar uma seção.
+
+- Method 2.B: Utilizar o mouse.
+(SEL.RULE: O usuário não possui deficiência visual.)
+  - OP.2.B.1: Mover o cursor até o menu principal.
+  - OP.2.B.2: Clicar na aba desejada.
+  - OP.2.B.3: Visualizar a nova página carregada.
+
+Goal 3: Conhecer o funcionamento do produto
+- Method 3.A: Ouvir demonstração em áudio.
+(SEL.RULE: O usuário é cego ou tem baixa visão.)
+        - OP.3.A.1: Clicar ou navegar até “Como Funciona”.
+        - OP.3.A.2: O site reproduz automaticamente uma descrição sonora do produto.
+        - OP.3.A.3: O usuário ouve explicações sobre sensores e feedback sonoro.
+
+- Method 3.B: Assistir vídeo com legenda e narração.
+(SEL.RULE: O usuário tem visão parcial ou total.)
+        - OP.3.B.1: Clicar no vídeo demonstrativo.
+        - OP.3.B.2: Ativar legendas ou narração opcional.
+        - OP.3.B.3: Compreender visualmente o funcionamento do acessório.
+
+Goal 4: Avaliar opiniões e benefícios
+- Method 4.A: Ouvir depoimentos em áudio.
+(SEL.RULE: O usuário usa leitor de tela.)
+        - OP.4.A.1: Navegar até a aba “Depoimentos”.
+        - OP.4.A.2: Ouvir relatos de usuários sobre experiências com o produto.
+        - OP.4.A.3: Refletir sobre a utilidade do produto.
+
+- Method 4.B: Ler depoimentos em texto.
+(SEL.RULE: O usuário não possui deficiência visual.)
+        - OP.4.B.1: Rolar a página até a seção de comentários.
+        - OP.4.B.2: Ler os relatos e visualizar avaliações com estrelas.
+
+Goal 5: Iniciar o processo de compra
+- Method 5.A: Comprar via formulário acessível.
+(SEL.RULE: O usuário usa leitor de tela.)
+        - OP.5.A.1: Navegar até “Compre Agora”.
+        - OP.5.A.2: Preencher formulário com auxílio do leitor de tela.
+        - OP.5.A.3: Escolher forma de pagamento.
+        - OP.5.A.4: Confirmar compra.
+        - OP.5.A.5: Receber feedback auditivo de confirmação.
+
+- Method 5.B: Comprar via navegação tradicional.
+(SEL.RULE: O usuário sem deficiência visual usa mouse ou toque.)
+        - OP.5.B.1: Clicar em “Compre Agora”.
+        - OP.5.B.2: Escolher forma de pagamento.
+        - OP.5.B.3: Confirmar e finalizar compra.
+        - OP.5.B.4: Receber e-mail de confirmação.
+
+Goal 6: Contatar o suporte
+- Method 6.A: Preencher formulário de contato.
+(SEL.RULE: O usuário prefere escrita ao chat.)
+        - OP.6.A.1: Acessar aba “Fale Conosco”.
+        - OP.6.A.2: Preencher campos obrigatórios (nome, e-mail, mensagem).
+        - OP.6.A.3: Enviar formulário.
+        - OP.6.A.4: Receber mensagem automática de confirmação.
+
+- Method 6.B: Usar comando de voz para contato.
+(SEL.RULE: O usuário é deficiente visual total.)
+        - OP.6.B.1: Dizer “Abrir suporte”.
+        - OP.6.B.2: Ditar mensagem de voz.
+        - OP.6.B.3: O sistema confirma envio por áudio.
+
+Goal 7: Encerrar a sessão
+- Method 7.A: Fechar navegador manualmente.
+(SEL.RULE: O usuário completou a navegação.)
+        - OP.7.A.1: Pressionar “Alt + F4” ou clicar em “Fechar”.
+
+- Method 7.B: Encerrar por comando de voz.
+(SEL.RULE: O usuário utiliza leitor de tela com assistente ativado.)
+        - OP.7.B.1: Dizer “Fechar site”.
+        - OP.7.B.2: O navegador encerra automaticamente.
 
 ## Coleta de dados (A FAZER)
 
@@ -467,7 +652,3 @@ O que o leva a usar a aplicação é a **necessidade de gerar datasets sob deman
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
-
-<!-- TODOs:
-- Add exemplos
- -->
