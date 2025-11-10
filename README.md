@@ -386,54 +386,45 @@ A jornada termina com João satisfeito por ter conseguido navegar, compreender e
 
 ## Ambiente e contexto
 
-### Perguntas:
-1) Quem pode/deve cadastrar as informações do acessório e seus recursos no site?
-2) Quando são atualizadas as informações sobre o produto (descrições, vídeos, preços, avaliações)?
-3) Quem fornece os dados e materiais multimídia que serão exibidos no site (equipe de desenvolvimento, marketing, usuários)?
-4) Quais informações sobre o acessório devem ser apresentadas (funcionalidades, formas de uso, público-alvo, suporte)?
-5) Quantas atualizações de conteúdo ou produtos são esperadas em cada período (mensalmente, a cada nova versão do protótipo, etc.)?
-6) Quem pode contribuir com depoimentos, avaliações ou demonstrações do acessório no site?
-7) Que dados são necessários para cadastrar um novo comprador ou interessado no sistema?
-8) Como são obtidas as informações de contato ou cadastro dos usuários (formulários, e-mail, autenticação externa)?
-9) De quem depende a conclusão de uma compra ou solicitação de contato no site (usuário, equipe técnica, sistema de pagamento)?
-10) De que informações os usuários precisam para confirmar o pedido ou entender o funcionamento do produto?
-11) Como o usuário confirma que sua compra ou solicitação foi concluída com sucesso?
-12) Em que pontos a interação do usuário com o site pode ser mais eficiente (ex: menos cliques, mais acessibilidade, melhor navegação por leitor de tela)?
-13) Como o usuário entra em contato com a equipe responsável (chat, formulário, e-mail, telefone)?
-14) Quem precisa ser notificado quando uma compra ou formulário de interesse é concluído (usuário, equipe de vendas, suporte técnico)?
+### **Perguntas de Refinamento**
 
-### João Alves:  
+1. **Quem pode/deve utilizar os recursos de acessibilidade do site?**  
+2. **Quando o usuário utiliza os recursos de acessibilidade do site?**  
+3. **Quem fornece as informações apresentadas no site?**  
+4. **Quais informações o site deve disponibilizar para o usuário?**  
+5. **Quantas interações são esperadas por sessão de uso?**  
+6. **Quem pode auxiliar o usuário na navegação pelo site?**  
+7. **Quais dados são necessários para realizar uma compra no site?**  
+8. **Como o site coleta ou armazena essas informações?**  
+9. **De quem depende a conclusão da compra ou cadastro no site?**  
+10. **De que informações o usuário precisa para confirmar a compra ou o contato com a equipe?**  
+11. **Como o usuário confirma que o pedido foi realizado corretamente?**  
+12. **Em que pontos a interação de Carlos com o site pode ser mais eficiente?**  
+13. **Como Carlos pode entrar em contato com a equipe de suporte do site?**  
+14. **Quem precisa ser notificado quando uma compra ou solicitação de contato é concluída?**  
 
-#### Atores:
-João Alves, 32 anos, é massoterapeuta e deficiente visual total desde o nascimento
+### **Atores**
 
-#### Narrativa:
-Ele acessa o site do acessório assistivo utilizando o leitor de tela NVDA em seu computador [Q1]. O ator principal é João, enquanto a equipe de desenvolvimento e suporte do site atua como atores secundários, responsáveis por manter as informações do produto atualizadas [Q2].
+**Carlos Eduardo**, 38 anos, é deficiente visual total desde o nascimento.  
+Atualmente trabalha como revisor de textos em braille e busca tecnologias que melhorem sua autonomia no dia a dia.  
+É o ator principal da interação com o site, utilizando recursos de acessibilidade digital.
+Atores secundários são os desenvolvedores e a equipe de suporte.
 
-Seu objetivo é compreender o funcionamento do acessório e avaliar se ele pode ajudá-lo em sua locomoção diária [Q3]. O site apresenta descrições detalhadas, narrações em áudio e exemplos de uso em formato acessível, explicando como o acessório se acopla a qualquer óculos e como realiza a leitura do ambiente por meio de visão computacional [Q4].
+### 🧠 **Narrativa**
 
-O conteúdo do site é atualizado periodicamente conforme novas versões do protótipo são lançadas [Q5]. Além da equipe técnica, usuários como João podem contribuir com depoimentos sobre suas experiências de uso [Q6]. Para cadastrar seu interesse no produto, João precisa informar dados básicos como nome, e-mail e telefone, preenchendo um formulário simplificado com suporte auditivo [Q7].
+Carlos Eduardo, 38 anos, utiliza seu computador pessoal com o leitor de tela NVDA para acessar o site do acessório assistivo [Q1].  
+O ator principal é Carlos, e os secundários são os desenvolvedores e a equipe de suporte [Q2].  
+Seu objetivo é conhecer o produto e verificar se ele pode melhorar sua mobilidade e segurança no dia a dia [Q3].
 
-Essas informações são coletadas diretamente por meio do site e armazenadas de forma segura, respeitando a LGPD [Q8]. A conclusão da solicitação de interesse depende do preenchimento correto dos dados e da confirmação automática enviada pelo sistema [Q9]. Durante a navegação, João precisa de informações claras sobre preços, funcionalidades e garantias para tomar sua decisão [Q10].
+Ele inicia a navegação ouvindo as descrições em áudio e explorando as seções do site com o teclado [Q4–Q5].  
+Durante o uso, ele conta com o leitor de tela e fones de ouvido, o que exige que o site seja responsivo e apresente feedbacks claros [Q6].  
+Carlos decide comprar o produto e preenche o formulário com auxílio da leitura auditiva [Q7–Q8].  
 
-Ao finalizar o processo, o site emite um alerta sonoro e envia uma mensagem confirmando a conclusão do cadastro [Q11]. A interação é mais eficiente quando o site reduz o número de etapas e organiza os conteúdos de forma linear, garantindo leitura fluida pelo leitor de tela [Q12]. Caso precise de suporte adicional, João pode entrar em contato com a equipe por meio de um botão de “Fale Conosco”, também compatível com leitores de tela [Q13]. Ao término do processo, tanto João quanto a equipe de atendimento recebem notificações automáticas sobre a solicitação [Q14].
-
-
-### Ricardo Silva:
-
-#### Atores:
-Ricardo Silva, 45 anos, é gerente administrativo e pai de um adolescente com deficiência visual.
-
-#### Narrativa:
-Ele ouve falar do acessório por meio de um grupo de pais em uma instituição de apoio e decide acessar o site para conhecer o produto [Q1]. O ator principal é Ricardo, enquanto a equipe de marketing e desenvolvimento atua nos bastidores, atualizando as informações e disponibilizando vídeos e imagens do produto [Q2].
-
-Seu objetivo é adquirir o acessório para o filho, buscando entender como ele funciona e de que forma pode oferecer mais independência e segurança [Q3]. O site apresenta seções explicativas com imagens ilustrativas, vídeos narrados e descrições interativas que tornam a compreensão simples e direta [Q4].
-
-As informações sobre o produto são revisadas e atualizadas periodicamente conforme novas versões do acessório são disponibilizadas [Q5]. Além disso, a plataforma permite que outros compradores enviem avaliações e relatos de uso, enriquecendo o conteúdo [Q6]. Para realizar a compra, Ricardo precisa preencher um formulário de cadastro com dados pessoais e informações de pagamento [Q7].
-
-Esses dados são obtidos diretamente no site, por meio de uma interface segura e intuitiva [Q8]. A confirmação da compra depende do processamento do pagamento e do retorno automático do sistema [Q9]. Ricardo precisa visualizar claramente informações sobre garantia, prazos de entrega e política de devolução antes de finalizar a compra [Q10].
-
-Assim que o pedido é confirmado, o sistema envia uma mensagem automática e um e-mail com o número do pedido [Q11]. A interação pode ser otimizada com atalhos visuais e botões destacados, que tornam a navegação rápida e agradável [Q12]. Caso tenha dúvidas, Ricardo pode contatar a equipe pelo chat de atendimento ou formulário de suporte [Q13]. Ao final, tanto ele quanto a equipe de vendas são notificados sobre a compra e o status do pedido [Q14].
+A confirmação da compra ocorre por meio de mensagem sonora e visual, informando que o pedido foi registrado [Q9–Q10].  
+O sistema envia uma notificação por e-mail e áudio confirmando os detalhes do pedido [Q11].  
+Os pontos de maior eficiência estão na navegação por teclado e nos feedbacks auditivos imediatos [Q12].  
+Se necessário, Carlos pode acessar o chat de suporte acessível por voz [Q13].  
+Ao final, ele e a equipe recebem a confirmação de compra e acompanhamento do pedido [Q14].
 
 ## Análise de tarefas
 
@@ -649,7 +640,7 @@ Goal 7: Encerrar a sessão
 <img width="913" height="742" alt="image" src="https://github.com/user-attachments/assets/12700904-c245-451a-8fe9-46814a9f7d37" />
 
 ### Tela "Comprar" (Tela 4):
-<img width="1168" height="878" alt="image" src="https://github.com/user-attachments/assets/5e4088a4-bec6-44ad-b352-e12db22f21f3" />
+<img width="1078" height="856" alt="image" src="https://github.com/user-attachments/assets/ac29a6e5-a454-4014-9677-cb3e37403ec9" />
 
 ### Tela "Fale Conosco" (Tela 5.1):
 <img width="874" height="781" alt="image" src="https://github.com/user-attachments/assets/33d3754d-c804-4cf2-8c2e-b822e7559298" />
@@ -725,10 +716,73 @@ Goal 7: Encerrar a sessão
 - O questionário incluirá um **Termo de Consentimento Livre e Esclarecido (TCLE)**, conforme diretrizes da **LGPD (Lei Geral de Proteção de Dados)**
 
 # Meios de coleta de dados
-## Formulário
-Ao acessar nosso site, após um certo tempo de uso, aparecerá um pop-up que perguntará se o usuário tem interesse em participar do nosso formulário, onde os dados coletados serão armazenados de forma segura e sem divulgação ou compartilhamento.
+## Questionário
+Ao acessar nosso site, após um certo tempo de uso, aparecerá um pop-up que perguntará se o usuário tem interesse em participar do questionário.
 
-**Link para formulário:** https://docs.google.com/forms/d/e/1FAIpQLSf32RZ4glS40ttE5EmVOGrxSHwLfaMq7g6lMomQ7OFeouAjHQ/viewform?usp=dialog
+**Link para questionário:** https://docs.google.com/forms/d/e/1FAIpQLSf32RZ4glS40ttE5EmVOGrxSHwLfaMq7g6lMomQ7OFeouAjHQ/viewform?usp=dialog
+
+## Ciclo da Engenharia de Usabilidade
+
+### 1) Características da Plataforma
+
+| **Item** | **Descrição** | **Justificativa** |
+|-----------|----------------|-------------------|
+| **Software** | Website desenvolvido em HTML5, CSS3, JavaScript e framework React | Essas tecnologias são padrão na web moderna e garantem compatibilidade com navegadores e dispositivos diversos |
+| **Backend** | Node.js com integração a banco de dados | Permite armazenamento de cadastros, pedidos e mensagens de contato, mantendo leveza no carregamento |
+| **Hardware** | Compatível com computadores, notebooks e dispositivos móveis (celulares e tablets) | A acessibilidade exige responsividade e compatibilidade entre múltiplas plataformas |
+| **Sistema Operacional** | Windows, macOS, Android ou iOS | O público é diverso, então o site precisa funcionar corretamente em diferentes sistemas |
+| **Capacidade de acessibilidade digital** | Compatibilidade com leitores de tela | Essencial, já que parte do público é composta por pessoas com deficiência visual |
+| **Capacidade multimídia** | Suporte a imagens, áudios e vídeos explicativos | Ajuda no entendimento do produto e na demonstração prática de uso |
+| **Capacidade de escalabilidade** | Possibilidade de hospedagem em servidores de nuvem | Garante estabilidade e desempenho mesmo com aumento de visitantes |
+| **Restrição técnica 1** | Limitações de áudio em navegadores móveis | Alguns dispositivos restringem reprodução automática, o que afeta os recursos sonoros do site |
+| **Restrição técnica 2** | Dependência de conexão com internet | Por ser um site, o acesso offline não é possível, o que limita usuários sem conexão constante |
+| **Restrição técnica 3** | Interações complexas podem dificultar o uso por pessoas com deficiência visual total | Justifica o uso de botões grandes, comandos por voz e narrações guiadas |
+
+### 2) Princípios Gerais de Projeto
+
+#### **Descreva o ambiente em que o serviço ou produto deve ser utilizado:**
+
+**Carlos Eduardo:**  
+Como Carlos possui deficiência visual total, o ambiente ideal para o uso do site deve ser tranquilo e livre de distrações sonoras, pois ele depende de recursos de voz e feedback auditivo para navegar.  
+Ele normalmente acessa o site pelo computador com leitor de tela (NVDA ou JAWS), ou pelo celular com, por exemplo, o VoiceOver presente nos celularas com iOS.  
+A navegação deve ser simples e linear, com menus bem estruturados, botões grandes e descrições faladas em cada seção.  
+A presença de textos alternativos nas imagens e atalhos de teclado também é essencial para que Carlos possa compreender o conteúdo sem barreiras.
+
+#### **Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?**
+
+**Carlos Eduardo:**  
+Carlos está inserido em um contexto urbano e social onde a acessibilidade digital ainda é limitada.  
+Ele faz parte de um grupo que valoriza tecnologias inclusivas que aumentem sua autonomia e integração social.  
+Economicamente, ele busca soluções acessíveis financeiramente, mas que ofereçam suporte técnico confiável.  
+Culturalmente, Carlos participa de grupos e fóruns voltados à acessibilidade e inclusão, sendo um usuário ativo em comunidades que trocam experiências sobre novas tecnologias assistivas.  
+Por isso, o site deve ser projetado com linguagem clara, empatia e ênfase em inclusão, reforçando que o produto é feito para ele, e não apenas sobre ele.
+
+#### **Quais informações sobre o ambiente, o serviço ou produto deve guardar antes de iniciar a interação?**
+
+**Carlos Eduardo:**  
+Antes de navegar, o sistema deve armazenar suas preferências de acessibilidade, como velocidade da leitura de tela, volume do áudio e contraste do site.  
+Essas configurações personalizadas facilitam a navegação em visitas futuras, evitando que ele precise reconfigurar tudo.  
+Além disso, o site pode guardar informações como localização aproximada (para cálculo de frete) e histórico de navegação, caso ele já tenha explorado o produto anteriormente.  
+Esses dados devem ser armazenados de forma segura e em conformidade com a LGPD, garantindo a privacidade do usuário.
+
+#### **O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou produto?**
+
+**Carlos Eduardo:**  
+Durante a interação, Carlos normalmente estará em um ambiente calmo, com fones de ouvido, utilizando o leitor de tela para ouvir as instruções e descrições sonoras.  
+O site deve responder rapidamente aos comandos de teclado ou voz, emitindo feedbacks auditivos imediatos a cada ação (como clicar em um botão ou abrir uma nova página).  
+O foco é oferecer uma experiência fluida, com voz natural e tom informativo, para que ele se sinta confiante e seguro em cada etapa, desde conhecer o produto até finalizar uma compra.  
+A interação deve transmitir autonomia e independência, reforçando o propósito social do projeto.
+
+### Referências
+
+| **Nome** | **Descrição** | **Importância para o projeto** | **Link** |
+|-----------|----------------|-------------------------------|-----------|
+| **WCAG 2.1 (Web Content Accessibility Guidelines)** | Diretrizes internacionais de acessibilidade digital | Fundamenta a estrutura do site para torná-lo totalmente acessível a pessoas com deficiência visual | [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) |
+| **ISO 9241-210:2019 – Ergonomia da interação humano-sistema** | Norma sobre design centrado no usuário | Garante que o projeto priorize as necessidades reais dos usuários e não apenas aspectos técnicos | [https://www.iso.org/standard/77520.html](https://www.iso.org/standard/77520.html) |
+| **Nielsen’s 10 Heuristics for UI Design** | Conjunto de heurísticas clássicas de usabilidade | Orienta o design de interface para oferecer navegação simples, feedback imediato e consistência | [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/) |
+| **ABNT NBR 17060:2022 – Acessibilidade na Comunicação** | Norma brasileira sobre comunicação acessível | Assegura que o conteúdo textual e auditivo do site seja compreensível e inclusivo | [https://www.abnt.org.br/](https://www.abnt.org.br/) |
+| **NVDA (NonVisual Desktop Access)** | Leitor de tela gratuito para Windows | Ferramenta essencial que deve ser compatível com o site para garantir acessibilidade aos cegos | [https://www.nvaccess.org/](https://www.nvaccess.org/) |
+| **VoiceOver (Apple)** | Sistema nativo de leitura de tela dos dispositivos iOS e macOS | Garante que usuários de dispositivos Apple também possam navegar sem barreiras | [https://www.apple.com/accessibility/](https://www.apple.com/accessibility/) |
 
 
 ## Modelo de tarefas (A FAZER)
