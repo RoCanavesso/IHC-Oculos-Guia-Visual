@@ -631,8 +631,105 @@ Goal 7: Encerrar a sessão
 (SEL.RULE: O usuário utiliza leitor de tela com assistente ativado.)
         - OP.7.B.1: Dizer “Fechar site”.
         - OP.7.B.2: O navegador encerra automaticamente.
+<br>
+<br>
 
-## Coleta de dados (A FAZER)
+* CTT:
+<img width="856" height="581" alt="image" src="https://github.com/user-attachments/assets/bfdf5a99-1b48-4edb-a32a-48d1e9f34221" />
+
+## Prototipagem em papel
+
+### Tela Inicial (Tela 1):
+<img width="1147" height="801" alt="image" src="https://github.com/user-attachments/assets/511898b9-c28b-43bf-b024-b5948eb2ca22" />
+
+### Tela "Como Funciona" (Tela 2):
+<img width="1251" height="828" alt="image" src="https://github.com/user-attachments/assets/da633be5-2085-4cfa-a2c5-2e5f4460084e" />
+
+### Tela "Depoimentos" (Tela 3):
+<img width="913" height="742" alt="image" src="https://github.com/user-attachments/assets/12700904-c245-451a-8fe9-46814a9f7d37" />
+
+### Tela "Comprar" (Tela 4):
+<img width="1168" height="878" alt="image" src="https://github.com/user-attachments/assets/5e4088a4-bec6-44ad-b352-e12db22f21f3" />
+
+### Tela "Fale Conosco" (Tela 5.1):
+<img width="874" height="781" alt="image" src="https://github.com/user-attachments/assets/33d3754d-c804-4cf2-8c2e-b822e7559298" />
+
+### Tela "Fale Conosco" (Tela 5.2):
+<img width="896" height="796" alt="image" src="https://github.com/user-attachments/assets/2ce20517-4f38-45c9-9b01-806e27b8ba0f" />
+
+
+# Coleta de Dados
+
+## **Quais dados coletar**
+
+### **Dados demográficos**
+- Idade  
+- Gênero  
+- Cidade ou região onde mora  
+
+### **Educação**
+- Grau de escolaridade  
+- Nível de familiaridade com tecnologia (iniciante, intermediário, avançado)
+
+### **Experiência com deficiência visual**
+- Possui alguma deficiência visual?  
+  - Sim, total  
+  - Sim, parcial  
+  - Não  
+- Caso sim: qual o grau da deficiência (leve, moderado, severo)?  
+- Já utilizou algum tipo de tecnologia assistiva (ex: bengala eletrônica, leitor de tela, aplicativos de navegação sonora)?
+
+### **Acesso e uso de tecnologia**
+- Com que frequência utiliza computador ou celular para navegação na internet?  
+- Já realizou compras online antes?  
+- Quais recursos de acessibilidade costuma utilizar (leitor de tela, alto contraste, comandos de voz, etc)?
+
+### **Objetivos**
+- Qual seria o principal motivo para visitar o site do acessório assistivo?  
+  - Conhecer a tecnologia  
+  - Comprar o produto  
+  - Recomendá-lo a outra pessoa  
+  - Pesquisar para estudos ou projetos  
+- Quais informações mais lhe interessam ao acessar o site?  
+  - Funcionalidades do produto  
+  - Preço e formas de pagamento  
+  - Depoimentos e avaliações  
+  - Suporte e contato  
+
+### **Preferências de interação**
+- Prefere conteúdos em formato de:  
+  - Texto  
+  - Áudio narrado  
+  - Vídeo demonstrativo  
+- Como considera mais fácil navegar em um site?  
+  - Por menus visuais  
+  - Por atalhos e comandos de voz  
+  - Por leitores de tela  
+
+### **Ocupação**
+- Profissão atual  
+- Relação com o uso de tecnologias (atua com TI, educação, saúde, etc)  
+- Interesse em tecnologia assistiva (usuário final, pesquisador, familiar, educador, etc)
+
+## **De quem coletar os dados**
+- Pessoas com deficiência visual (cegueira total ou parcial)  
+- Familiares ou cuidadores de pessoas com deficiência visual  
+- Profissionais e estudantes das áreas de **Engenharia, Ciência da Computação, Educação e Saúde**, interessados em tecnologias assistivas  
+- Instituições voltadas à **inclusão social, acessibilidade e inovação tecnológica**
+
+## **Aspectos éticos**
+- Todos os participantes serão informados sobre o **objetivo do estudo** e o uso de seus dados apenas para fins acadêmicos  
+- Nenhum dado sensível (como imagem, voz ou endereço) será divulgado publicamente  
+- Os dados serão armazenados de forma segura e utilizados apenas para avaliação da **usabilidade e acessibilidade do site**  
+- Os participantes poderão **retirar seu consentimento a qualquer momento**  
+- O questionário incluirá um **Termo de Consentimento Livre e Esclarecido (TCLE)**, conforme diretrizes da **LGPD (Lei Geral de Proteção de Dados)**
+
+# Meios de coleta de dados
+## Formulário
+Ao acessar nosso site, após um certo tempo de uso, aparecerá um pop-up que perguntará se o usuário tem interesse em participar do nosso formulário, onde os dados coletados serão armazenados de forma segura e sem divulgação ou compartilhamento.
+
+**Link para formulário:** https://docs.google.com/forms/d/e/1FAIpQLSf32RZ4glS40ttE5EmVOGrxSHwLfaMq7g6lMomQ7OFeouAjHQ/viewform?usp=dialog
+
 
 ## Modelo de tarefas (A FAZER)
 
