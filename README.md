@@ -884,23 +884,24 @@ Ao final, cada ator consegue interagir com o sistema conforme suas necessidades 
 ## Comprar
 <img width="294" height="617" alt="image" src="https://github.com/user-attachments/assets/6c46b4fe-7e23-42de-a0c8-6d73e6155539" />
 
+# Prototipação Figma
 
+## Tela Inicial (Tela 1)
+<img width="741" height="888" alt="image" src="https://github.com/user-attachments/assets/3953645d-667d-4cd5-be46-28d1b026af19" />
 
-## Modelo de tarefas (A FAZER)
+## Tela "Como Funciona" (Tela 2)
+<img width="744" height="712" alt="image" src="https://github.com/user-attachments/assets/2991b55d-2d21-49b2-90e1-9d6b31e5930a" />
 
-## Design (A FAZER)
+## Tela "Depoimento" (Tela 3)
+<img width="742" height="715" alt="image" src="https://github.com/user-attachments/assets/96436250-2e01-44f7-9834-d34bdd702901" />
 
-- Pense nas características de Affordances do seu serviço ou poduto. 
-    - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
-- Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
+## Tela "Comprar" (Tela 4)
+<img width="741" height="693" alt="image" src="https://github.com/user-attachments/assets/80bf7bd7-9f77-46c4-ad41-e097ebb0e4f5" />
 
-### Prototipação em baixo nível (papel) (A FAZER)
-#### Avaliação heurística
+## Tela "Fale Conosco" (Tela 5.1)
+<img width="740" height="771" alt="image" src="https://github.com/user-attachments/assets/bff98e3f-b8e9-4df6-9410-8854f5fa8dc7" />
 
-### Prtotipação em médio nível (Figma) (A FAZER)
-#### Avaliação heurística
-
-### Prtotipação em alto nível (React) (A FAZER)
-#### Avaliação heurística
+## Tela "Fale Conosco" (Tela 5.2)
+<img width="743" height="769" alt="image" src="https://github.com/user-attachments/assets/51ba6312-77b9-426e-a80f-2065420a4a4f" />
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
