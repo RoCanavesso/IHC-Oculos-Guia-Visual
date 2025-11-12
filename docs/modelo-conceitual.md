@@ -90,7 +90,3 @@ O sistema simplifica a compra em três etapas curtas e envia confirmação por e
 | **Suporte e tutoriais** | PP: acessível por comando de voz e menu principal. | RA: redirecionamento automático para suporte via e-mail se o tutorial não resolver. |
 | **Feedback geral do sistema** | PP + AL: confirmações multimodais (texto, som, vibração) a cada ação. | RA: repetição automática do feedback se o usuário não interagir em 10 segundos. |
 
----
-
-> **Conclusão:**  
-> O modelo conceitual define como o sistema deve **comunicar-se com usuários com diferentes graus de deficiência visual**, prevenindo falhas de comunicação e garantindo que **cada interação seja clara, acessível e multimodal**.
