@@ -17,6 +17,7 @@ Logo em seguida, ela recebe um e-mail com os detalhes da solicitação e um link
 Os pontos de maior eficiência para Mariana estão na navegação com contraste, feedback visual ampliado e respostas rápidas do sistema [Q12].  
 Se necessário, ela pode entrar em contato diretamente pelo formulário de suporte ou pelo número de telefone com atendimento inclusivo [Q13].  
 Por fim, tanto Mariana quanto a equipe de suporte recebem notificações automáticas confirmando o recebimento da solicitação e o agendamento do contato [Q14].
+
 ---
 
 ## 2. Questões de Refinamento
