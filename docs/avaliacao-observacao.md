@@ -79,7 +79,6 @@ Essas correções contribuirão para aprimorar a **acessibilidade digital** e al
 **Links dos materiais utilizados:**  
 - [Formulário de avaliação de satisfação (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSf32RZ4glS40ttE5EmVOGrxSHwLfaMq7g6lMomQ7OFeouAjHQ/viewform?usp=dialog)  
 - [Protótipo Figma](https://www.figma.com)  
-- [Vídeo demonstrativo do site](https://youtu.be) *(substituir pelo link final do vídeo)*  
 
 ---
 
