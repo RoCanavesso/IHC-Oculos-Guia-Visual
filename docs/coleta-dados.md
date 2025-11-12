@@ -92,9 +92,3 @@
 - **Objetivo:** Identificar barreiras de navegação no site e observar comportamentos durante o uso (ex: tempo de resposta, cliques, dificuldades).  
 - **Aplicação:** Feita durante testes de usabilidade presenciais com acompanhamento de um avaliador.  
 - **Registro:** Tabelas de observação com métricas de tempo, erros e satisfação percebida.
-
----
-
-## 5. Considerações Finais
-A coleta de dados será conduzida de forma ética, acessível e voltada à **melhoria contínua da experiência do usuário**.  
-As três abordagens — **questionário, entrevista e observação** — permitem combinar dados **quantitativos e qualitativos**, garantindo uma visão ampla sobre a **usabilidade e acessibilidade** do sistema desenvolvido.
