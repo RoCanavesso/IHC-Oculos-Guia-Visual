@@ -1,5 +1,3 @@
-# planejamento avaliacao
-
 # Planejamento de Usabilidade (método DECIDE)
 
 O planejamento da avaliação de usabilidade do projeto **Acessório Guia Visual** foi estruturado segundo o método **DECIDE**, proposto por Preece, Rogers e Sharp (2015).  
