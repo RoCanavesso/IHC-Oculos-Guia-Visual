@@ -60,8 +60,8 @@ Estou ciente de que **posso desistir a qualquer momento**, sem qualquer prejuíz
 
 Em caso de dúvidas ou solicitações relacionadas a este estudo, entrar em contato com a equipe do projeto:
 
-- **Rômulo Canavesso:** romulo.canavesso@fei.edu.br  
-- **Lucas Sampaio:** lucas.sampaio@fei.edu.br  
+- **Rômulo Canavesso:** unifrcanavesso@fei.edu.br  
+- **Lucas Sampaio:** uniflsampaio@fei.edu.br  
 - **Prof. Fagner Pimentel:** fpimentel@fei.edu.br  
 
 ---
