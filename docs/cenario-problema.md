@@ -1,20 +1,22 @@
 # Cenário de Análise/Problema
 
-## 1. Cenário de Análise/Problema
+## 1. **Narrativa**
 
-Mariana Ribeiro, 24 anos, é estudante de Letras e possui baixa visão no olho direito e cegueira no esquerdo.  
-Ela acessa o site do acessório assistivo utilizando o notebook com modo de alto contraste e zoom de tela para facilitar a leitura. Seu objetivo é compreender como o produto funciona e se ele pode ajudá-la a ter mais autonomia e segurança durante seus deslocamentos diários entre casa, faculdade e estágio.
+Mariana Ribeiro, 24 anos, acessa o site do acessório assistivo por meio de seu notebook, utilizando modo de alto contraste e zoom de tela para facilitar a leitura [Q1].  
+O ator principal é Mariana, enquanto os secundários são a equipe de suporte e os desenvolvedores responsáveis pela interface acessível [Q2].  
+Seu objetivo é entender como o acessório funciona na prática e avaliar se ele pode melhorar sua segurança e autonomia nos trajetos diários entre casa, faculdade e estágio [Q3].
 
-Durante a navegação, Mariana entra na seção **“Como Funciona”**, onde encontra vídeos demonstrativos com legendas ampliadas e descrições em texto.  
-A interface utiliza ícones grandes e cores com alto contraste, facilitando sua leitura.  
-Quando surge uma dúvida, Mariana utiliza o chat de suporte, disponível tanto em formato de texto quanto em áudio.
+Durante a navegação, Mariana acessa a seção “Como funciona”, onde encontra vídeos demonstrativos com legendas ampliadas e descrições em texto [Q4–Q5].  
+Ela também interage com a seção de benefícios do produto, que utiliza ícones e contraste alto para facilitar a leitura.  
+Caso tenha dúvidas, pode acionar o chat de suporte, disponível tanto em texto quanto em áudio [Q6].
 
-Após entender as principais funções do acessório, Mariana decide solicitar uma demonstração preenchendo o formulário com nome, e-mail e cidade.  
-O site confirma o envio por meio de uma mensagem visual em fonte ampliada e um breve áudio de confirmação. Logo depois, ela recebe um e-mail com os detalhes da solicitação e um link para acompanhar o retorno da equipe.
+Após compreender o funcionamento do produto, Mariana decide solicitar uma demonstração, preenchendo o formulário de contato com nome, e-mail e cidade [Q7–Q8].  
+O site confirma o envio com uma mensagem visual em fonte ampliada e um áudio curto de confirmação [Q9–Q10].  
+Logo em seguida, ela recebe um e-mail com os detalhes da solicitação e um link para acompanhar o retorno da equipe [Q11].
 
-Os pontos mais importantes para a experiência de Mariana são: uma navegação acessível, contraste de cores adequado, feedbacks visuais e sonoros claros e respostas rápidas.  
-Quando há necessidade de contato direto, ela pode recorrer ao formulário de suporte ou ao telefone com atendimento inclusivo.
-
+Os pontos de maior eficiência para Mariana estão na navegação com contraste, feedback visual ampliado e respostas rápidas do sistema [Q12].  
+Se necessário, ela pode entrar em contato diretamente pelo formulário de suporte ou pelo número de telefone com atendimento inclusivo [Q13].  
+Por fim, tanto Mariana quanto a equipe de suporte recebem notificações automáticas confirmando o recebimento da solicitação e o agendamento do contato [Q14].
 ---
 
 ## 2. Questões de Refinamento
