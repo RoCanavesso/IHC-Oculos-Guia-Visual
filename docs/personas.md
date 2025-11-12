@@ -138,12 +138,3 @@ O site deve evitar sobrecarga sonora, oferecer descrições em áudio claras e p
 7. O site oferece confirmação por áudio e e-mail.  
 8. João finaliza satisfeito, sentindo-se autônomo e incluído digitalmente.
 
----
-
-## Conclusão
-
-As personas representam diferentes perfis que se relacionam com o projeto:  
-- Usuários diretos, com deficiência visual total ou parcial;  
-- Profissionais e instituições que atuam na inclusão digital.  
-
-Esses perfis reforçam a importância de uma interface simples, com linguagem acessível, suporte em áudio e elementos interativos que favorecem a autonomia e a confiança do usuário.
