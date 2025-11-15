@@ -8,4 +8,5 @@ Para abrir a imagem em uma nova guia, clique com o botão direito do mouse em ci
 Para baixar a imagem, clique com o botão direito do mouse em cima da imagem abaixo e selecione "Salvar imagem como...", selecione onde deseja salvar a imagem em seu computador e baixe.
 
 ## Diagrama MOLIC
-<img width="1248" height="644" alt="image" src="https://github.com/user-attachments/assets/208355a6-5d04-42eb-9748-79beb03ad687" />
+<img width="1630" height="826" alt="image" src="https://github.com/user-attachments/assets/efa9a04f-caff-4a2c-af3c-3695c43f74b9" />
+
