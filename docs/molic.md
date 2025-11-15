@@ -1,5 +1,3 @@
-# molic
-
 # MOLIC
 ## Como Funciona
 <img width="508" height="490" alt="image" src="https://github.com/user-attachments/assets/c92cf96e-45aa-4361-96c2-5e63bf385243" />
