@@ -50,7 +50,6 @@ O sistema simplifica a compra em três etapas curtas e envia confirmação por e
 | **> Página inicial** | **D:** Este é o acessório assistivo inteligente, acoplável a qualquer óculos, que ajuda na identificação de objetos e pessoas via visão computacional.<br>**U:** Quero saber como funciona.<br>**D:** Redirecionando para a seção “Como funciona”. |
 | **> Seção "Como funciona"** | **D:** O acessório usa duas câmeras e visão computacional para detectar obstáculos e enviar alertas sonoros.<br>**U:** Há exemplos de uso?<br>**D:** Sim, deseja ouvir o áudio ou assistir ao vídeo?<br>**U:** Áudio, por favor.<br>**D:** Reproduzindo áudio explicativo. |
 | **> Benefícios** | **U:** Quais os principais benefícios?<br>**D:** Autonomia, segurança e inclusão. Pode ser usado por pessoas com deficiência visual ou familiares.<br>**U:** Posso testar o produto?<br>**D:** Sim, deseja acessar o formulário de demonstração? |
-| **> Solicitar demonstração** | **U:** Quero solicitar.<br>**D:** Informe nome, e-mail e cidade.<br>**U:** Nome: João Alves, e-mail: joaomassoterapeuta@gmail.com, cidade: São Paulo.<br>**D:** Formulário enviado. Você receberá confirmação em até 24h. |
 | **> Realizar compra** | **U:** Quero comprar.<br>**D:** Redirecionando para a página de compra segura.<br>**U:** Parcelar em 6 vezes.<br>**D:** Pagamento configurado, confirmar?<br>**U:** Sim.<br>**D:** Compra concluída. Manual acessível enviado. |
 | **> Suporte** | **U:** Tenho dúvidas sobre a configuração.<br>**D:** Deseja ouvir o guia em áudio, texto ampliado ou vídeo?<br>**U:** Áudio.<br>**D:** Reproduzindo tutorial sonoro “Como configurar o acessório assistivo”. |
 | **> Encerrar** | **U:** Quero sair.<br>**D:** Deseja avaliar sua experiência?<br>**U:** Sim.<br>**D:** Avaliação concluída. Obrigado pela visita! |
@@ -74,7 +73,7 @@ O sistema simplifica a compra em três etapas curtas e envia confirmação por e
 |------------|-------------|-----------------|
 | **Modo de acessibilidade** | Domínio | Permite alternar entre leitor de tela, alto contraste e texto ampliado, garantindo inclusão. |
 | **Seção “Como funciona”** | Domínio | Apresenta o funcionamento do acessório com imagens, vídeos e descrições em áudio. |
-| **Formulário de demonstração** | Domínio | Coleta dados de interessados e envia confirmação por e-mail acessível. |
+| **Formulário** | Domínio | Coleta dados de interessados para melhorias no site. |
 | **Área de compra** | Domínio | Permite adquirir o produto com opções de parcelamento e feedback auditivo/visual. |
 | **Suporte e tutoriais** | Domínio | Oferece guias em texto ampliado, vídeos legendados e tutoriais em áudio. |
 
@@ -85,7 +84,7 @@ O sistema simplifica a compra em três etapas curtas e envia confirmação por e
 | **Signo** | **Prevenção** | **Recuperação** |
 |------------|---------------|-----------------|
 | **Modo de acessibilidade** | PP + AL: opção visível e sonora no topo; ativação imediata ao primeiro acesso. | RA: se o usuário não escolher um modo, o sistema ativa o padrão “leitor de tela”. |
-| **Formulário de demonstração** | PP: campos obrigatórios com mensagens de voz e texto de aviso. | RA: mensagens sonoras e visuais em caso de erro, permitindo reenvio. |
+| **Formulário** | PP: campos para preenchemento por texto. | RA: mensagens visuais em caso de erro, permitindo reenvio. |
 | **Área de compra** | PP + AL: etapas guiadas por áudio e texto; botões com contraste e feedback auditivo. | RA: se houver falha, o sistema salva o progresso e reabre a transação. |
 | **Suporte e tutoriais** | PP: acessível por comando de voz e menu principal. | RA: redirecionamento automático para suporte via e-mail se o tutorial não resolver. |
 | **Feedback geral do sistema** | PP + AL: confirmações multimodais (texto, som, vibração) a cada ação. | RA: repetição automática do feedback se o usuário não interagir em 10 segundos. |
