@@ -13,7 +13,7 @@ https://www.figma.com/design/5kYhx8xRj80bG95t16YhnU/Assistente-visual?node-id=0-
 <img width="742" height="715" alt="image" src="https://github.com/user-attachments/assets/96436250-2e01-44f7-9834-d34bdd702901" />
 
 ## Tela "Comprar" (Tela 4)
-<img width="741" height="693" alt="image" src="https://github.com/user-attachments/assets/80bf7bd7-9f77-46c4-ad41-e097ebb0e4f5" />
+<img width="814" height="761" alt="image" src="https://github.com/user-attachments/assets/4be2a5c7-23b0-4173-a0ff-6117fd7c9d17" />
 
 ## Tela "Fale Conosco" (Tela 5.1)
 <img width="740" height="771" alt="image" src="https://github.com/user-attachments/assets/bff98e3f-b8e9-4df6-9410-8854f5fa8dc7" />
