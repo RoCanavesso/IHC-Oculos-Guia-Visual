@@ -1,12 +1,11 @@
 # MOLIC
-## Como Funciona
-<img width="508" height="490" alt="image" src="https://github.com/user-attachments/assets/c92cf96e-45aa-4361-96c2-5e63bf385243" />
 
-## Depoimentos
-<img width="352" height="500" alt="image" src="https://github.com/user-attachments/assets/069ab9f6-cec0-4095-941b-9d3cfc009b89" />
+## Observação
+Devido ao tamanho dos diagramas, recomendamos que abra a imagem separadamente em uma nova guia, ou baixe a imagem.
 
-## Fale conosco
-<img width="558" height="790" alt="image" src="https://github.com/user-attachments/assets/466c17ea-bbb8-449f-952b-de4ad867987f" />
+Para abrir a imagem em uma nova guia, clique com o botão direito do mouse em cima da imagem abaixo e selecione "Abrir a imagem em uma nova guia".
 
-## Comprar
-<img width="294" height="617" alt="image" src="https://github.com/user-attachments/assets/6c46b4fe-7e23-42de-a0c8-6d73e6155539" />
+Para baixar a imagem, clique com o botão direito do mouse em cima da imagem abaixo e selecione "Salvar imagem como...", selecione onde deseja salvar a imagem em seu computador e baixe.
+
+## Diagrama MOLIC
+<img width="1248" height="644" alt="image" src="https://github.com/user-attachments/assets/208355a6-5d04-42eb-9748-79beb03ad687" />
