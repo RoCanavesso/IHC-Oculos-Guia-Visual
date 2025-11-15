@@ -1,5 +1,3 @@
-# figma
-
 # Prototipação Figma
 
 ## Link para acesso Figma
