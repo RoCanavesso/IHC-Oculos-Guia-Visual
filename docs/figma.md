@@ -4,7 +4,7 @@
 https://www.figma.com/design/5kYhx8xRj80bG95t16YhnU/Assistente-visual?node-id=0-1&t=uNOdgH7ODX9YTbGs-1
 
 ## Tela Inicial (Tela 1)
-<img width="741" height="888" alt="image" src="https://github.com/user-attachments/assets/3953645d-667d-4cd5-be46-28d1b026af19" />
+<img width="680" height="815" alt="image" src="https://github.com/user-attachments/assets/543b5956-a603-4ac3-bafe-51d31188f94f" />
 
 ## Tela "Como Funciona" (Tela 2)
 <img width="744" height="712" alt="image" src="https://github.com/user-attachments/assets/2991b55d-2d21-49b2-90e1-9d6b31e5930a" />
