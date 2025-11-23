@@ -92,3 +92,5 @@
 - **Objetivo:** Identificar barreiras de navegação no site e observar comportamentos durante o uso (ex: tempo de resposta, cliques, dificuldades).  
 - **Aplicação:** Feita durante testes de usabilidade presenciais com acompanhamento de um avaliador.  
 - **Registro:** Tabelas de observação com métricas de tempo, erros e satisfação percebida.
+- **Link para o formulário:**
+- [Formulário de Pesquisa de Uso - Acessibilidade e Usabilidade do Site](https://docs.google.com/forms/d/e/1FAIpQLSdL1pR3d6rXNwEfJYcq9q_e9SYmdt_9iBAOJWF_RH7moezj8w/viewform?usp=header)
