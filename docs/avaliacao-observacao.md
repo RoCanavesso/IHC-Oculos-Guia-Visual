@@ -22,10 +22,11 @@ Cada sessão foi observada presencialmente e registrada com anotações sobre te
 Verificar se o usuário consegue compreender as informações e navegar pelo site com facilidade.
 
 **Passo 2 – Lista de tarefas:**  
-1. Acessar a página inicial e identificar o propósito do projeto.  
+1. Acessar a página inicial e entender o funcionamento do site.  
 2. Navegar até a seção *Como Funciona* e compreender o funcionamento do dispositivo.  
-3. Acessar a página *Contato* e preencher o formulário corretamente.  
-4. Localizar a seção *Depoimentos* e reproduzir um vídeo demonstrativo.  
+3. Localizar a seção *Depoimentos* e reproduzir os áudios narrados de depoimentos de usuários.
+4. Acessar a página *Comprar* e preencher o formulário corretamente, além de confirmar a aquisição do produto.
+5. Acessar as telas de "Fale Conosco" e entrar em contato com o suporte    
 
 **Passo 3 – Materiais utilizados:**  
 - Navegador Google Chrome.  
