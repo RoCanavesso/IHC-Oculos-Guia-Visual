@@ -2,15 +2,12 @@
 
 ## 1. Método de Avaliação
 
-O método de **observação de usuários** foi utilizado para identificar dificuldades práticas na navegação do site do projeto *Acessório Guia Visual*.  
+O método de **observação de usuários** foi utilizado para identificar dificuldades práticas na navegação do site do projeto *Acessório Assistivo Visual*.  
 O objetivo foi compreender como diferentes perfis de usuários interagem com a interface, quais barreiras de usabilidade surgem e como o design influencia a percepção de acessibilidade.
 
-Foram observados **três participantes** com perfis distintos:
-- **Usuário 1:** pessoa com baixa visão, familiarizada com leitores de tela.  
-- **Usuário 2:** estudante de tecnologia sem deficiência, mas com foco em acessibilidade digital.  
-- **Usuário 3:** familiar de pessoa com deficiência visual, com experiência limitada em navegação web.  
-
-Cada sessão foi observada presencialmente e registrada com anotações sobre tempo, erros e satisfação.
+Foram coletados informações de uso de **dois participantes**, sendo eles:
+- **Usuário 1:** Luana Gonçalvês, pessoa com nenhuma deficiência visual, pretende comprar o acessório para seu irmão, que possui deficiência visual
+- **Usuário 2:** Murilo Gonçalvês, pessoa com deficiência visual, irá ganhar o acessório assistivo de sua irmã e pretende usar o site para entender melhor como funciona o assistente visual  
 
 ---
 
@@ -27,61 +24,66 @@ Verificar se o usuário consegue compreender as informações e navegar pelo sit
 5. Acessar as telas de "Fale Conosco" e entrar em contato com o suporte    
 
 **Passo 3 – Materiais utilizados:**  
-- Navegador Google Chrome.  
-- Notebook com Windows 11 e leitor de tela NVDA (para o usuário 1).  
-- Cronômetro e planilha de registro de erros.  
-- Formulário de feedback pós-teste (grau de satisfação).
+- Google Forms para criação dos formulários e registros de dados dos usuários participantes do estudo
 
 ---
 
-## 3. Resultados do Teste
+## 3. Resultados do formulário de uso do site
 
 A tabela a seguir apresenta a avaliação das tarefas observadas para cada participante.
 
-| Tarefa | Grau de Sucesso | Total de Erros | Tipo de Erros | Tempo Necessário | Grau de Satisfação |
-|--------|------------------|----------------|----------------|------------------|--------------------|
-| 1 – Identificar propósito do site | Sucesso total | 0 | Nenhum | 10 segundos | Muito satisfeito |
-| 2 – Acessar “Como Funciona” | Sucesso parcial | 1 | Navegação (confusão entre seções) | 25 segundos | Satisfeito |
-| 3 – Enviar formulário de contato | Sucesso parcial | 2 | Preenchimento incompleto / falta de feedback | 45 segundos | Neutro |
-| 4 – Assistir ao vídeo de demonstração | Sucesso total | 0 | Nenhum | 20 segundos | Muito satisfeito |
+# Tabela de Avaliação – Usuário 1
+
+| **Tarefa** | **Grau de Sucesso** | **Total de Erros** | **Tipo de Erros** | **Tempo Necessário** | **Grau de Satisfação** |
+|-----------|----------------------|---------------------|---------------------|------------------------|--------------------------|
+| **1 – Acessar a página inicial e entender o funcionamento** | Sucesso | 0 | — | 10 segundos | Alta satisfação |
+| **2 – Navegar até “Como Funciona” e compreender o dispositivo** | Sucesso | 0 | — | 25 segundos | Satisfação moderada (comentou redundância do áudio) |
+| **3 – Reproduzir os depoimentos narrados** | Sucesso | 0 | — | 20 segundos | Alta satisfação |
+| **4 – Preencher o formulário e confirmar compra** | Sucesso | 0 | — | 45 segundos | Alta satisfação |
+| **5 – Utilizar o Fale Conosco e contatar suporte** | Parcialmente bem-sucedida | 1 | Incerteza sobre retorno do chat (sem indicador de digitação) | 60 segundos | Satisfação baixa (confusão moderada) |
+
+# Tabela de Avaliação – Usuário 2
+
+| **Tarefa** | **Grau de Sucesso** | **Total de Erros** | **Tipo de Erros** | **Tempo Necessário** | **Grau de Satisfação** |
+|-----------|----------------------|---------------------|---------------------|------------------------|--------------------------|
+| **1 – Acessar a página inicial e entender o funcionamento** | Sucesso | 0 | — | 10 segundos | Alta satisfação |
+| **2 – Navegar até “Como Funciona” e compreender o dispositivo** | Sucesso | 0 | — | 20 segundos | Alta satisfação |
+| **3 – Reproduzir os depoimentos narrados** | Sucesso | 0 | — | 18 segundos | Alta satisfação |
+| **4 – Preencher o formulário e confirmar compra** | Sucesso | 0 | — | 40 segundos | Alta satisfação |
+| **5 – Utilizar o Fale Conosco e contatar suporte** | Parcialmente bem-sucedida | 1 | Falta de acessibilidade no chat (sem áudio integrado; precisou usar leitor de tela externo) | 90 segundos | Satisfação baixa (confusão alta) |
+
 
 ---
 
 ## 4. Síntese dos Resultados
 
 **Erros mais comuns observados:**
-- Dificuldade para identificar o feedback após envio de formulário.  
-- Falta de foco automático do leitor de tela em alguns botões.  
-- Pequena confusão ao localizar a seção *Como Funciona* no menu.
+- Dificuldade no Fale Conosco via chat por falta de feedback (sem indicação de resposta/digitação).
+- Falta de áudio integrado no chat, obrigando o uso de leitor de tela externo.
+- Percepção de redundância no botão de áudio da tela Como Funciona.
 
 **Pontos fortes identificados:**
-- Estrutura de navegação simples e previsível.  
-- Linguagem clara e próxima do usuário.  
-- Tempo de carregamento rápido e contraste visual adequado.
+- Navegação simples e compreensão rápida das telas.
+- Conteúdo claro, direto e fácil de entender.
+- Processo de compra intuitivo e sem dificuldades.
 
 ---
 
 ## 5. Conclusão da Avaliação
 
-A observação mostrou que o site apresenta **boa usabilidade geral** e é compreendido pela maioria dos usuários em poucos segundos, mesmo com perfis distintos.  
-Os principais ajustes sugeridos são:
-- Adicionar **feedback visual e sonoro** após o envio do formulário.  
-- Garantir que **todas as seções sejam reconhecidas por leitores de tela**.  
-- Incluir **atalhos de teclado** para navegação entre seções.
+Os testes indicam que o site oferece boa navegação, clareza de conteúdo e acessibilidade geral. As tarefas foram executadas com sucesso pelos usuários. As principais dificuldades apareceram apenas na área de Fale Conosco via chat, onde faltam sinais adequados de feedback. O restante do site teve boa aceitação.
 
-Essas correções contribuirão para aprimorar a **acessibilidade digital** e alinhar o sistema às recomendações da WCAG 2.1.
+O que precisamos melhorar conforme os feedbacks de uso do site:
+- Adicionar feedback sonoro no chat (leitura automática das mensagens recebidas).
+- Indicar visual e/ou auditivamente quando o atendente está digitando.
+- Garantir compatibilidade total com leitores de tela dentro do chat.
+- Incluir mensagens de confirmação claras após o envio no chat.
+- Tornar os elementos do chat mais acessíveis (foco automático, maior destaque dos botões).
 
 ---
 
 ## 6. Complementos
 
 **Links dos materiais utilizados:**  
-- [Formulário de avaliação de satisfação (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSf32RZ4glS40ttE5EmVOGrxSHwLfaMq7g6lMomQ7OFeouAjHQ/viewform?usp=dialog)  
+- [Formulário de Uso do Site Acessório Assistivo Visual (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdL1pR3d6rXNwEfJYcq9q_e9SYmdt_9iBAOJWF_RH7moezj8w/viewform?usp=header)  
 - [Protótipo Figma](https://www.figma.com)  
-
----
-
-## 7. Considerações Finais
-
-Os resultados obtidos na avaliação observacional reforçam as conclusões da **avaliação heurística**, comprovando que o projeto atende aos requisitos básicos de usabilidade e acessibilidade.  
-A equipe seguirá para a etapa de refinamento, aplicando as melhorias antes da entrega final do protótipo funcional.
