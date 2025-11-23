@@ -1,5 +1,3 @@
-# avaliacao observacao
-
 # Avaliação de Usabilidade por Observação de Usuários
 
 ## 1. Método de Avaliação
