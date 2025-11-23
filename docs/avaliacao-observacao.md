@@ -30,6 +30,14 @@ Verificar se o usuário consegue compreender as informações e navegar pelo sit
 
 ## 3. Resultados do formulário de uso do site
 
+### Respostas dos usuários
+<img width="759" height="807" alt="image" src="https://github.com/user-attachments/assets/d7e8bd80-a997-4ccf-a7b6-09def0ae32ec" />
+<img width="760" height="833" alt="image" src="https://github.com/user-attachments/assets/da680fec-6c0b-4553-8768-1d3fb2c5ff3d" />
+<img width="754" height="697" alt="image" src="https://github.com/user-attachments/assets/e92559c7-f3c8-4337-a228-616afaa562cd" />
+<img width="755" height="515" alt="image" src="https://github.com/user-attachments/assets/71de5cab-3e67-4073-a114-9741e792c8c1" />
+<img width="755" height="346" alt="image" src="https://github.com/user-attachments/assets/57c85027-82a2-43b3-b24b-b77acf4a5e33" />
+
+
 A tabela a seguir apresenta a avaliação das tarefas observadas para cada participante.
 
 ### Tabela de Avaliação – Usuário 1
