@@ -32,7 +32,7 @@ Verificar se o usuário consegue compreender as informações e navegar pelo sit
 
 A tabela a seguir apresenta a avaliação das tarefas observadas para cada participante.
 
-# Tabela de Avaliação – Usuário 1
+### Tabela de Avaliação – Usuário 1
 
 | **Tarefa** | **Grau de Sucesso** | **Total de Erros** | **Tipo de Erros** | **Tempo Necessário** | **Grau de Satisfação** |
 |-----------|----------------------|---------------------|---------------------|------------------------|--------------------------|
@@ -42,7 +42,7 @@ A tabela a seguir apresenta a avaliação das tarefas observadas para cada parti
 | **4 – Preencher o formulário e confirmar compra** | Sucesso | 0 | — | 45 segundos | Alta satisfação |
 | **5 – Utilizar o Fale Conosco e contatar suporte** | Parcialmente bem-sucedida | 1 | Incerteza sobre retorno do chat (sem indicador de digitação) | 60 segundos | Satisfação baixa (confusão moderada) |
 
-# Tabela de Avaliação – Usuário 2
+### Tabela de Avaliação – Usuário 2
 
 | **Tarefa** | **Grau de Sucesso** | **Total de Erros** | **Tipo de Erros** | **Tempo Necessário** | **Grau de Satisfação** |
 |-----------|----------------------|---------------------|---------------------|------------------------|--------------------------|
